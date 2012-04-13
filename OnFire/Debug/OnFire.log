@@ -1,0 +1,39 @@
+﻿  OnFire.cpp
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\angel.h(63): warning C4305: 'initializing' : truncation from 'double' to 'const GLfloat'
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(698): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(699): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(700): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(721): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(723): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(726): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\program files (x86)\microsoft visual studio 10.0\vc\include\gl\mat.h(743): warning C4244: '=' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(219): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(219): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(219): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(220): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(220): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(231): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(231): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(241): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(241): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(241): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(243): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(251): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(251): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(251): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(253): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(253): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(603): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(607): warning C4244: 'argument' : conversion from 'int' to 'const GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(613): warning C4244: 'argument' : conversion from 'int' to 'const GLfloat', possible loss of data
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(613): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(613): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(613): warning C4305: 'argument' : truncation from 'double' to 'const GLfloat'
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(655): warning C4101: 'thetaX' : unreferenced local variable
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(655): warning C4101: 'thetaY' : unreferenced local variable
+c:\users\mspprod\documents\visual studio 2010\projects\onfire\onfire\onfire.cpp(201): warning C4715: 'loadTexFile' : not all control paths return a value
+  OnFire.vcxproj -> C:\Users\mspprod\Documents\Visual Studio 2010\Projects\OnFire\Debug\OnFire.exe
